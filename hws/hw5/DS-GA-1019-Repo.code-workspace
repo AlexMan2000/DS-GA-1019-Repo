@@ -8,6 +8,9 @@
 		},
 		{
 			"path": "../../../DS-GA-1012-NLP/ec2-main"
+		},
+		{
+			"path": "../../labs"
 		}
 	],
 	"settings": {}
